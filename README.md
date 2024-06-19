@@ -1,4 +1,4 @@
-# News monitoring application and RAG chatbot
+# News monitoring application - A GraphRAG project
 
 This project is designed to show an end-to-end pipeline for constructing knowledge graphs from news articles, analyzing them through various visualizations, and finally, allowing LLM to generate questions based on the information provided from the knowledge graph.
 
